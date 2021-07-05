@@ -1,7 +1,12 @@
 # Miniproject
 
 Sorting techniques using C language
+Build | Code Quality | Unity | Gitinspector
+|---------|------------|-----------|----------
 
+Build | Code Quality | Unity | Gitinspector
+|---------|------------|-----------|----------
+[![C/C++ CI](https://github.com/Sriharshakurra/Miniproject/actions/workflows/c.yml/badge.svg)](https://github.com/Sriharshakurra/Miniproject/actions/workflows/c.yml)|[![Static Code Quality- Cppcheck](https://github.com/Sriharshakurra/Miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sriharshakurra/Miniproject/actions/workflows/cppcheck.yml)  | [![Unit Testing - Unity](https://github.com/Sriharshakurra/Miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/Sriharshakurra/Miniproject/actions/workflows/unity.yml)| [![Contribution Check - Git Inspector](https://github.com/Sriharshakurra/Miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sriharshakurra/Miniproject/actions/workflows/gitinspector.yml)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
