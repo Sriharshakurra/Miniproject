@@ -1,8 +1,7 @@
 # Miniproject
 
 Sorting techniques using C language
-Build | Code Quality | Unity | Gitinspector
-|---------|------------|-----------|----------
+
 
 Build | Code Quality | Unity | Gitinspector
 |---------|------------|-----------|----------
